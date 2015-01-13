@@ -11,9 +11,7 @@ Crosswalk + Cordova
 ======================
 There is a way to get the best of both Crosswalk and Cordova by using Crosswalk Cordova for Android. This provides Cordova's APIs plus additional APIs available in Crosswalk (WebGL, SIMD, Presentation API etc.). The packages available for download provide tools for creating Cordova Android applications with Crosswalk as the web view. Such applications will work on Android version 4.0 or later.
 
-Build _www_ to path: _CrossWalkAndroidStudio\Application\assets_,then run it.
-
-*In your UITabBarController which is a subclass of BFPaperTabBarController:*<br />*(Taken directly from example project.)*<br />
+First deploy _www_ to path: _CrossWalkAndroidStudio\Application\assets_,then run it.
 
 How to use it:
 ======================
