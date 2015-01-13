@@ -9,4 +9,7 @@ Using Crosswalk version 10
 
 How to use it:
 ======================
-![](https://github.com/wanghaogithub720/CrossWalkAndroidStudio/raw/master/snipshoot/android-studio-project-structure.png)
+![](https://github.com/wanghaogithub720/CrossWalkAndroidStudio/raw/master/snapshoot/android-studio-project-structure.png)
+![Animated Screenshot](https://raw.githubusercontent.com/bfeher/BFPaperTabBarController/master/BFPaperTabBarControllerDemo.gif "Animated Screenshot")
+
+![Animated Screenshot](http://www.baidu.com/img/bdlog.gif "Animated Screenshot")
