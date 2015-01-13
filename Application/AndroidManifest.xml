@@ -61,15 +61,20 @@
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name="org.crosswalkproject.xwalkembed.MainActivity"
+            android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="org.crosswalkproject.xwalkembed.MainActivity"
-            android:label="@string/title_activity_main" >
         </activity>
     </application>
 

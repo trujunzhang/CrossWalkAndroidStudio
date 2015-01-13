@@ -17,6 +17,6 @@ public class MainActivity extends Activity {
         mXWalkView = (XWalkView) findViewById(R.id.activity_main);
 
         // this loads a file from the assets/ directory
-        mXWalkView.load("file:///android_asset/index.html", null);
+        mXWalkView.load("file:///android_asset/www/index.html", null);
     }
 }
